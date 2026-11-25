@@ -9,6 +9,8 @@ public class Main
 
         system.addStudent("32301002526", "marah", "Software Engineering");
 
+        system.addStudent("32301256017", "shahed", "Computer Graphices");
+
         // Add courses
         system.addCourse("011524", "Software  Tools", 3);
         system.addCourse("653220", "Numerical Analysis", 3);
